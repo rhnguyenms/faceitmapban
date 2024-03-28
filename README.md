@@ -24,13 +24,13 @@ Here, we have included instructions that will guide you on how to install and ru
   
 ### Installation
 1. Clone the repository to your local machine:
-git clone https://github.com/rhnguyenms/faceitmapban.git
+`git clone https://github.com/rhnguyenms/faceitmapban.git`
 
 2. Change to the project directory:
-cd faceitmapban
+`cd faceitmapban`
 
 3. Install necessary Python packages:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Configuration
 
@@ -43,7 +43,7 @@ Replace `<Your_FACEIT_API_Key>` with your actual API key.
 ### Usage
 
 Execute the script via the command line, and input the desired match ID when prompted:
-python mapban.py
+`python mapban.py`
 
 
 
