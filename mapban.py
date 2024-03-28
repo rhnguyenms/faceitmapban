@@ -70,7 +70,6 @@ def recommend_map_bans(teams_info):
     return recommendations
 
 if __name__ == "__main__":
-    api_key = "88579df0-eb57-4232-bc56-044f9f35ecaf"
     print("Please enter a match ID:")
     match_id = input().strip()
     match_details = fetch_match_details(match_id, api_key)
