@@ -21,7 +21,7 @@ Here, we have included instructions that will guide you on how to install and ru
 - `requests` library for making API calls
 
 - `python-dotenv` for managing sensitive environment variables securely
-- 
+  
 ### Installation
 1. Clone the repository to your local machine:
 git clone https://github.com/rhnguyenms/faceitmapban.git
